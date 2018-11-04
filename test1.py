@@ -11,3 +11,5 @@ else:
 for i in range (10):
     print (i+1)
 print("hello world")
+print("暂存大发好")
+print("暂存大法真的好")
