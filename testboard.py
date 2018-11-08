@@ -10,4 +10,5 @@ writer = tf.summary.FileWriter("logs/", sess.graph)
 writer.close()
 init = tf.global_variables_initializer()
 # sess.run(init)
+
 print(sess.run(product))
